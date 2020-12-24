@@ -32,3 +32,8 @@ h1
               width: 100%;
           
             }            
+@media only screen and (max-width: 411px, max-height:823px) {
+              [class*="col-"] {
+                width: 100%;
+            
+              }            

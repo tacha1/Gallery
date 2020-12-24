@@ -9,8 +9,26 @@ h1
     width: 100%;
 
   }
-  @media only screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
     [class*="col-"] {
       width: 100%;
     }
-    
+@media only screen and (max-height:1366px) {
+      [class*="col-"] {
+        width: 100%;
+      }
+@media only screen and (max-width: 414px, max-height:736px) {
+        [class*="col-"] {
+          width: 100%;
+      
+        }
+@media only screen and (max-width: 360px, max-height:640px) {
+          [class*="col-"] {
+            width: 100%;
+        
+          }  
+@media only screen and (max-width: 411px, max-height:731px) {
+            [class*="col-"] {
+              width: 100%;
+          
+            }            

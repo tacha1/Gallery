@@ -10,71 +10,70 @@ img {
 }
 @media only screen and (max-width: 375px, max-height:667px) {
   body {
-    width: 90%;
-    font-size: 18px;
+    width: 50%;
+    font-size: 11px;
 }
 
   }
 @media only screen and (max-width: 768px) {
   body {
     width: 90%;
-    font-size: 18px;
+    font-size: 13px;
 }
     }
 @media only screen and (max-height:1366px) {
   body {
     width: 90%;
-    font-size: 18px;
+    font-size: 13px;
 }
       }
 @media only screen and (max-width: 414px, max-height:736px) {
   body {
     width: 90%;
-    font-size: 18px;
 }
       
         }
 @media only screen and (max-width: 360px, max-height:640px) {
   body {
     width: 90%;
-    font-size: 18px;
+    font-size: 11px;
 }
           }  
 @media only screen and (max-width: 411px, max-height:731px) {
   body {
     width: 90%;
-    font-size: 18px;
+    font-size: 11px;
 }
             }            
 @media only screen and (max-width: 411px, max-height:823px) {
   body {
     width: 90%;
-    font-size: 18px;
+    font-size: 11px;
 }
               }
 @media only screen and (max-width: 320px, max-height:568px) {
   body {
     width: 90%;
-    font-size: 18px;
+    font-size: 11px;
 }
                 } 
 @media only screen and (max-width: 540px, max-height:720px) {
   body {
     width: 90%;
-    font-size: 18px;
+    font-size: 12px;
 }
                 
                   }
 @media only screen and (max-width: 280px, max-height:653px) {
   body {
     width: 90%;
-    font-size: 18px;
+    font-size: 11px;
 }
                   
                     }
 @media only screen and (max-width: 800px, max-height:1280px) {
   body {
     width: 90%;
-    font-size: 18px;
+    font-size: 13px;
 }
                       }                         

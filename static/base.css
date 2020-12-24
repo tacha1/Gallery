@@ -1,6 +1,16 @@
 h1
 {
   font-family: 'Francois One', sans-serif;
-  text-shadow: 10px 10px 8px 10px #ccf0d4;
+  text-shadow: 10px 10px 8px 10px #f8eded;
   color:rgb(57, 80, 59);
 }
+@media only screen and (max-width: 375px, max-height:667px) {
+  [class*="col-"] {
+    width: 100%;
+
+  }
+  @media only screen and (max-width: 768px) {
+    [class*="col-"] {
+      width: 100%;
+    }
+    

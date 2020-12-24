@@ -46,4 +46,9 @@ h1
                   [class*="col-"] {
                     width: 100%;
                 
-                  }                         
+                  }
+@media only screen and (max-width: 280px, max-height:653px) {
+                    [class*="col-"] {
+                      width: 100%;
+                  
+                    }                         

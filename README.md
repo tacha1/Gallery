@@ -38,3 +38,11 @@ Django Python and Postgresql (database)
 
 For any issues or questions, ideas or concern, please contact me on my e-mail: uwarosine10@gmail.com.
 phone number:0788851018 /0783025628
+
+### License
+
+MIT license
+
+Copyright (c) 2020 Moringa School
+
+Created with all the love in the world, enjoy it is free of charge.

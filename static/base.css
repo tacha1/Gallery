@@ -9,55 +9,72 @@ img {
   height: 100px;
 }
 @media only screen and (max-width: 375px, max-height:667px) {
-  [class*="col-"] {
-    width: 100%;
+  body {
+    width: 90%;
+    font-size: 18px;
+}
 
   }
 @media only screen and (max-width: 768px) {
-    [class*="col-"] {
-      width: 100%;
+  body {
+    width: 90%;
+    font-size: 18px;
+}
     }
 @media only screen and (max-height:1366px) {
-      [class*="col-"] {
-        width: 100%;
+  body {
+    width: 90%;
+    font-size: 18px;
+}
       }
 @media only screen and (max-width: 414px, max-height:736px) {
-        [class*="col-"] {
-          width: 100%;
+  body {
+    width: 90%;
+    font-size: 18px;
+}
       
         }
 @media only screen and (max-width: 360px, max-height:640px) {
-          [class*="col-"] {
-            width: 100%;
-        
+  body {
+    width: 90%;
+    font-size: 18px;
+}
           }  
 @media only screen and (max-width: 411px, max-height:731px) {
-            [class*="col-"] {
-              width: 100%;
-          
+  body {
+    width: 90%;
+    font-size: 18px;
+}
             }            
 @media only screen and (max-width: 411px, max-height:823px) {
-              [class*="col-"] {
-                width: 100%;
-            
+  body {
+    width: 90%;
+    font-size: 18px;
+}
               }
 @media only screen and (max-width: 320px, max-height:568px) {
-                [class*="col-"] {
-                  width: 100%;
-              
+  body {
+    width: 90%;
+    font-size: 18px;
+}
                 } 
 @media only screen and (max-width: 540px, max-height:720px) {
-                  [class*="col-"] {
-                    width: 100%;
+  body {
+    width: 90%;
+    font-size: 18px;
+}
                 
                   }
 @media only screen and (max-width: 280px, max-height:653px) {
-                    [class*="col-"] {
-                      width: 100%;
+  body {
+    width: 90%;
+    font-size: 18px;
+}
                   
                     }
 @media only screen and (max-width: 800px, max-height:1280px) {
-                      [class*="col-"] {
-                        width: 100%;
-                    
+  body {
+    width: 90%;
+    font-size: 18px;
+}
                       }                         

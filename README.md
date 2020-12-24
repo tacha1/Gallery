@@ -33,3 +33,8 @@ Rosine Uwamariya, 20th december 2020
 ## Technologies Used
 
 Django Python and Postgresql (database)
+
+## Support and contact details
+
+For any issues or questions, ideas or concern, please contact me on my e-mail: uwarosine10@gmail.com.
+phone number:0788851018 /0783025628

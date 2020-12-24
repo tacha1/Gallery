@@ -4,6 +4,10 @@ h1
   text-shadow: 10px 10px 8px 10px #f8eded;
   color:rgb(57, 80, 59);
 }
+img {
+  width: 50px;
+  height: 100px;
+}
 @media only screen and (max-width: 375px, max-height:667px) {
   [class*="col-"] {
     width: 100%;

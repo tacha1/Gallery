@@ -29,3 +29,7 @@ Rosine Uwamariya, 20th december 2020
 * pytz==2019.3
 * soupsieve==1.9.4
 * whitenoise==4.1.4
+
+## Technologies Used
+
+Django Python and Postgresql (database)

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light pink" style="background-color:pink; box-shadow: 10px 10px 8px 10px #f8eded; padding: 20px;font-family: 'Lobster', cursive;">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="{% url 'welcome' %}" style="color:white">GALLERY</a>
+        <a class="navbar-brand" href="{% url 'location' 1%}" style="color:white">RWANDA</a>
+        <a class="navbar-brand" href="{% url 'location' 2%}" style="color:white">UK</a>
+        <a class="navbar-brand" href="{% url 'location' 4%}" style="color:white">USA</a>
+        <a class="navbar-brand" href="{% url 'location' 3%}" style="color:white">CANADA</a>
+      </div>
+
+      <!-- Adding a search form  -->
+      <div class="col-sm-4 col-md-4 navbar-right">
+
+        <form class="navbar-form" role="search" action="{% url 'search_image' %}">
+
+          <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search Image" name="image">
+            <div class="input-group-btn">
+              <button class="btn btn-success" type="submit" style="color:white"><i class="glyphicon glyphicon-search"></i>Search</button>
+            </div>
+          </div>
+
+        </form>
+      </div>
+      <!-- search form end -->
+    </div>
+  </nav>
+</body>
+</html>

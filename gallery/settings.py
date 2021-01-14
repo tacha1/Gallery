@@ -37,7 +37,7 @@ DEBUG = config('DEBUG', default=False, cast=bool)
 # Application definition
 
 INSTALLED_APPS = [
-    'images.apps.ImagesConfig',
+    'images',
     'bootstrap4',
     'django.contrib.admin',
     'django.contrib.auth',
